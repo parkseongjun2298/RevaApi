@@ -1,0 +1,87 @@
+﻿  stdafx.cpp
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\define.h(4): warning C4005: 'PURE': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: 'PURE'의 이전 정의를 참조하십시오.
+  Back.cpp
+  Strory7.cpp
+  Story8.cpp
+  Story6.cpp
+  Story5.cpp
+  Story4.cpp
+  Story3.cpp
+  Story2.cpp
+  Story1.cpp
+  StartButton.cpp
+  Stage4.cpp
+  Stage3.cpp
+  Stage2.cpp
+  Stage.cpp
+  SoundMgr.cpp
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\soundmgr.cpp(81): warning C4244: '초기화 중': 'intptr_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\soundmgr.cpp(101): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SelectDun.cpp
+  SceneMgr.cpp
+  Scene.cpp
+  RigingShot.cpp
+  RanShot.cpp
+  Player.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ObjMgr.cpp
+  Obj.cpp
+  NillSna.cpp
+  NextButton.cpp
+  Neiphamtan.cpp
+  MyMenu.cpp
+  MyButton.cpp
+  Mouse.cpp
+  Monster2.cpp
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\monster2.cpp(62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster1.cpp
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\monster1.cpp(70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\monster1.cpp(88): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\monster1.cpp(267): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+  Monster.cpp
+  MonSkill.cpp
+  MonAtt.cpp
+  Maingame.cpp
+  Logo.cpp
+  LightAir.cpp
+  KeyMgr.cpp
+  Jackspike.cpp
+  HyperSkill.cpp
+  Gun.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  FLeezer.cpp
+  FlashMine.cpp
+  Flasher.cpp
+  Ending.cpp
+  DunButton.cpp
+  Cross.cpp
+  CollisionMgr.cpp
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\collisionmgr.cpp(659): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Client Reva.cpp
+  Clear.cpp
+  CharButton.cpp
+  Buster.cpp
+  Bullet.cpp
+  BossMonster.cpp
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\bossmonster.cpp(68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\bossmonster.cpp(81): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\박성준\desktop\client reva 1124 10시까지한거\client reva\bossmonster.cpp(389): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+  Boom.cpp
+  Bmp.cpp
+  BitmapMgr.cpp
+  코드를 생성하고 있습니다...
+SoundMgr.obj : error LNK2019: FMOD_System_Create 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Release 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Init 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Close 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Update 외부 기호(참조 위치: "private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_CreateSound 외부 기호(참조 위치: "private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_PlaySound 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *)" (?PlayBGM@CSoundMgr@@QEAAXPEA_W@Z) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Sound_Release 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_Stop 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::StopAll(void)" (?StopAll@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_SetMode 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *)" (?PlayBGM@CSoundMgr@@QEAAXPEA_W@Z) 함수)에서 확인하지 못했습니다.
+fmodex_vc.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\박성준\Desktop\Client Reva 1124 10시까지한거\x64\Debug\Client Reva.exe : fatal error LNK1120: 10개의 확인할 수 없는 외부 참조입니다.

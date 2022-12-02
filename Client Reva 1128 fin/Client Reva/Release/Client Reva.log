@@ -1,0 +1,90 @@
+﻿  stdafx.cpp
+d:\git\ddd\revaapi\client reva 1128 fin\client reva\Define.h(4): warning C4005: 'PURE': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h(193): note: 'PURE'의 이전 정의를 참조하십시오.
+  Back.cpp
+  BitmapMgr.cpp
+  Bmp.cpp
+  Boom.cpp
+  BossMonster.cpp
+BossMonster.cpp(68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+BossMonster.cpp(81): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+BossMonster.cpp(389): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+  Bullet.cpp
+  Buster.cpp
+  C4.cpp
+  CharButton.cpp
+  Clear.cpp
+  Client Reva.cpp
+  CollisionMgr.cpp
+CollisionMgr.cpp(548): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CollisionMgr.cpp(549): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CollisionMgr.cpp(739): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Cross.cpp
+  DunButton.cpp
+  Ending.cpp
+  FlameBullet.cpp
+  FlameShot.cpp
+  Flasher.cpp
+  FlashMine.cpp
+  FLeezer.cpp
+  컴파일하고 있습니다...
+  GetRing.cpp
+  GetRingButton.cpp
+  Gun.cpp
+  HyperSkill.cpp
+  InsertRing.cpp
+  Inven.cpp
+  InvenGoButton.cpp
+  InvenOutButton.cpp
+  Jackspike.cpp
+  KeyMgr.cpp
+  LightAir.cpp
+  Logo.cpp
+  Maingame.cpp
+  MonAtt.cpp
+  MonSkill.cpp
+  Monster.cpp
+  Monster1.cpp
+Monster1.cpp(70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Monster1.cpp(88): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+Monster1.cpp(267): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+  Monster2.cpp
+Monster2.cpp(62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mouse.cpp
+  MyButton.cpp
+  컴파일하고 있습니다...
+  MyMenu.cpp
+  Neiphamtan.cpp
+  NextButton.cpp
+  NillSna.cpp
+  Obj.cpp
+  ObjMgr.cpp
+  Player.cpp
+  RanShot.cpp
+  RigingShot.cpp
+  RingButton.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  SelectDun.cpp
+  SoundMgr.cpp
+  Stage.cpp
+  Stage2.cpp
+  Stage3.cpp
+  Stage4.cpp
+  StartButton.cpp
+  Story1.cpp
+  컴파일하고 있습니다...
+  Story2.cpp
+  Story3.cpp
+  Story4.cpp
+  Story5.cpp
+  Story6.cpp
+  Story8.cpp
+  Strory7.cpp
+  코드를 생성하고 있습니다.
+  1048 of 1048 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client Reva.vcxproj -> D:\Git\ddd\RevaApi\Client Reva 1128 fin\Release\Client Reva.exe
+  Client Reva.vcxproj -> D:\Git\ddd\RevaApi\Client Reva 1128 fin\Release\Client Reva.pdb (Full PDB)
